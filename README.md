@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi, I'm Jigar 👋
 
-<!--
-**JigarVegad/jigarvegad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚗 Aspiring AI Engineer (Intelligent Transportation Systems)  
+📍 Based in Germany  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+- 🌱 Currently learning Python & Computer Vision  
+- 🎯 Goal: Build AI for Automated Driving  
+- 📚 Exploring Machine Learning & Deep Learning  
+
+---
+
+## 🛠️ Skills (Learning Phase)
+- Python  
+- OpenCV  
+- NumPy  
+- Git & GitHub  
+
+---
+
+## 📂 Projects (Coming Soon 🚀)
+- Traffic Light Detection  
+- Lane Detection System  
+- Vehicle Detection  
+
+---
